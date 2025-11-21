@@ -37,7 +37,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="50dp"
-                tools:text="First Last"
+                android:text="Jayden Bradford"
                 android:textSize="24sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
@@ -51,7 +51,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="10dp"
-                android:text="@string/profile_bio_text"
+                android:text="A junior majoring in information technology and formerly played sports."
                 android:textSize="16sp"/>
 
             <TextView
@@ -62,7 +62,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="50dp"
-                android:text="@string/profile_hobby_header_text"
+                android:text="Hobbies"
                 android:textSize="18sp"
                 android:textColor="@color/black"/>
 
@@ -74,7 +74,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="10dp"
-                android:text="@string/profile_hobby_first_text"
+                android:text="• Sports"
                 android:textSize="15sp"/>
 
             <TextView
@@ -85,7 +85,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="5dp"
-                android:text="@string/profile_hobby_second_text"
+                android:text="• Working out"
                 android:textSize="15sp"/>
 
             <TextView
@@ -96,7 +96,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="5dp"
-                android:text="@string/profile_hobby_third_text"
+                android:text="• Listening to music"
                 android:textSize="15sp"/>
 
         </androidx.constraintlayout.widget.ConstraintLayout>
